@@ -13,11 +13,9 @@ Senior Product Manager at [Factorial](https://factorialhr.com), building spend t
 
 ### Career
 
-| | | |
-|---|---|---|
-| **Factorial** (FinTech) | 2025 – now | Spend tools · Cards · Integrations |
-| **Libere** (PropTech) | 2023 – 2025 | Stay Experience · Process Automation |
-| **Lookiero** (Fashion) | 2020 – 2023 | AI Personalization · Inventory · Payments |
+- **Factorial** (FinTech) · 2025 – now · Spend tools · Cards · Integrations
+- **Libere** (PropTech) · 2023 – 2025 · Stay Experience · Process Automation
+- **Lookiero** (Fashion) · 2020 – 2023 · AI Personalization · Inventory · Payments
 
 ### Let's connect
 
