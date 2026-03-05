@@ -2,7 +2,9 @@
 
 I turn messy problems into products people actually use.
 
-I build AI agents and LLM apps - from tool calling setups to full working prototypes - validated with real users. Most of my work is hands-on: real code, clear patterns, and tested setups using AI-assisted development.
+I build AI agents and LLM apps - from tool calling setups to full working prototypes - validated with real users.
+
+Most of my work is hands-on: real code, clear patterns, and tested setups using AI-assisted development.
 
 ### About Me
 
