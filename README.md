@@ -2,7 +2,7 @@
 
 I turn messy problems into products people actually use.
 
-Senior Product Manager at [Factorial](https://factorialhr.com), building spend tools — cards, expense flows, and ERP integrations — that finance teams actually enjoy. On the side, I vibe-code my own projects and experiment with AI tools 🤖
+I build AI agents and LLM apps — from tool calling setups to full working prototypes — validated with real users. Most of my work is hands-on: real code, clear patterns, and tested setups using AI-assisted development.
 
 ### About Me
 
