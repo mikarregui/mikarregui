@@ -6,10 +6,10 @@ Senior Product Manager at [Factorial](https://factorialhr.com), building spend t
 
 ### About Me
 
-- 🧑‍💼 PM with experience across SaaS, field operations, AI personalization, and inventory (Factorial, Libere, Lookiero)
-- 🤖 Tinkering with AI agents, RAG, LLMs, and tool calling — learning by building
-- 💻 Natural problem solver. Transparency obsessed.
-- 🌱 Bridging product thinking and technical implementation, one side project at a time
+Senior Product Manager · AI-driven
+Build → ship → measure → iterate
+Hands-on with AI agents, RAG & tool calling
+Bridging product thinking and technical execution
 
 ### Career
 
