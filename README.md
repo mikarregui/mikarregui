@@ -15,7 +15,7 @@ Most of my work is hands-on: real code, clear patterns, and tested setups using 
 
 ### Career
 
-- **Roadsurfer** (Mobility) · 2026 - now · Damage Costs · Repairs · AI Agents
+- **roadsurfer** (Mobility) · 2026 - now · Damage Costs · Repairs · AI Agents
 - **Factorial** (FinTech) · 2025 - 2026 · Spend tools · Cards · Integrations
 - **Libere** (Hospitality) · 2023 - 2025 · Stay Experience · Process Automation
 - **Lookiero** (Fashion) · 2020 - 2023 · AI Personalization · Inventory · Payments
